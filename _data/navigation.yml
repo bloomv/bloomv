@@ -2,21 +2,21 @@
 main:
   - title: "视频" # "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+    
+  - title: "软件" # "Portfolio"
+    url: /portfolio/
+    
+  - title: "教程" # "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "资讯" # "Talks"
+    url: /talks/    
+ 
+  - title: "博客" # "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#     url: /markdown/
