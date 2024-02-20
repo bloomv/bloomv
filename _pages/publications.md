@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "视频制作"
 permalink: /publications/
 author_profile: true
 ---
