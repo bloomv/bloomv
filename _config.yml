@@ -22,13 +22,13 @@ repository               : "bloomv/bloomv.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "我们提供讲解视频制作服务和软件"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI数字人、AI视频合成、人体解剖动画"
+  location         : "深圳 南山"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bloomv@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
