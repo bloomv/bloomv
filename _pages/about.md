@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "首页"
+title: "讲解类视频制作软件和服务"
 author_profile: true
 redirect_from: 
   - /about/
