@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "视频" # "Publications"
+  - title: "视频制作" # "Publications"
     url: /publications/
     
-  - title: "软件" # "Portfolio"
+  - title: "软件产品" # "Portfolio"
     url: /portfolio/
     
-  - title: "教程" # "Teaching"
+  - title: "培训教程" # "Teaching"
     url: /teaching/    
     
-  - title: "资讯" # "Talks"
+  - title: "新闻资讯" # "Talks"
     url: /talks/    
  
-  - title: "博客" # "Blog Posts"
+  - title: "技术博客" # "Blog Posts"
     url: /year-archive/
     
 #  - title: "CV"
